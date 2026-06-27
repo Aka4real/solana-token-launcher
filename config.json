@@ -1,0 +1,8 @@
+{
+  "name": "cookieton",
+  "symbol": "COOKIE",
+  "decimals": 9,
+  "totalSupply": 500000,
+  "description": "A delicious, freshly baked token on Solana, cooked up by Antigravity and the Chef.",
+  "network": "devnet"
+}

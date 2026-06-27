@@ -1,0 +1,19 @@
+{
+  "name": "cookieton-backend",
+  "version": "1.0.0",
+  "description": "Secure backend for Cookieton token distribution",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "@solana/spl-token": "^0.4.12",
+    "@solana/web3.js": "^1.98.0",
+    "@supabase/supabase-js": "^2.48.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
